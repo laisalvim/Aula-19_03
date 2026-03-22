@@ -1,0 +1,336 @@
+1. (Select one) Which of the following is the primary source of enzymes used during mashing?
+A. Hops
+B. Malt
+C. Water
+D. Yeast
+2. (Select one) Top-fermenting yeast is typically used to produce which beer family?
+A. Lagers
+B. Ales
+C. Lambics
+D. Pilsners
+3. (Select one) Which attribute of beer is most directly affected by carbonation level?
+A. Colour
+B. Foam stability
+C. Mouthfeel
+D. Bitterness
+4. (Select one) The main biochemical products of fermentation are:
+A. Ethanol and carbon dioxide
+B. Lactic acid and acetaldehyde
+C. Water and oxygen
+D. Maltose and glucose
+5. (Select one) Typical finished beer pH lies in which range?
+A. 2.5–3.5
+B. 3.5–4.6
+C. 5.0–6.0
+D. 6.0–7.0
+6. (Select one) Which of the following processes reduces diacetyl in beer?
+A. Early dry hopping
+B. Prolonged warm conditioning
+C. Adding more hops at flameout
+D. Rapid cooling to below 0 °C
+7. (Select one) Which historical development most enabled consistent lager production?
+A. Pasteurization
+B. Refrigeration
+C. Use of wooden barrels
+D. Hops pelletization
+8. (Select one) Beer clarity is primarily influenced by which of the following?
+A. Alcohol content only
+B. Haze-forming proteins and polyphenols
+C. Colour of glass bottle
+D. Amount of CO■
+9. (Select one) Which sensory descriptor is typically linked to hop-derived compounds?
+A. Toffee
+B. Fruity esters
+C. Herbal or citrus aroma
+D. Diacetyl buttery
+10. (Select all that apply) Which characteristics are typical of lager beers compared with ales?
+A. Fermented at lower temperatures
+B. Higher ester production
+C. Cleaner, crisper flavour profile
+D. Longer cold maturation
+11. (Select one) What is the main purpose of kilning during malting?
+A. To germinate the barley
+B. To dry and develop colour/flavour
+C. To extract enzymes
+D. To husk the barley
+12. (Select one) Which ion in brewing water is most associated with accentuating hop bitterness?
+A. Calcium (Ca²■)
+B. Chloride (Cl■)
+C. Sulphate (SO■²■)
+D. Bicarbonate (HCO■■)
+13. (Select one) Which hop addition is primarily used to increase bitterness?
+A. Dry hopping
+B. Late aroma addition
+C. First-wort or early boil addition
+D. Post-fermentation hopping
+14. (Select one) Which yeast species is most commonly used for ales?
+A. Saccharomyces pastorianus
+B. Saccharomyces cerevisiae
+C. Brettanomyces
+D. Lactobacillus
+15. (Select all that apply) Which are common reasons to treat brewery water (e.g., RO, ion exchange)?
+A. Remove unwanted ions like excessive bicarbonate
+B. Increase dissolved oxygen for fermentation
+C. Reduce chlorine and sanitiser residues
+D. Adjust hardness for mash pH control
+16. (Select one) Which malt attribute is measured in EBC or Lovibond units?
+A. Enzyme activity
+B. Colour
+C. Protein content
+D. Moisture
+17. (Select one) Hop alpha acids primarily influence which beer property?
+A. Foam stability
+B. Bitterness after isomerization
+C. Colour
+D. Fermentation rate
+18. (Select one) Which of the following is a primary nutrient role of magnesium in brewing?
+A. Foam stability
+B. Yeast nutrient and cofactor
+C. Hop preservation
+D. Colour development
+19. (Select one) Whole leaf hops differ from pellets by:
+A. Containing no α-acids
+B. Having more surface area per weight
+C. Being unprocessed whole cones vs compressed pellets
+D. Having a longer shelf life than pellets
+20. (Select one) Which component in malt provides the majority of fermentable sugars?
+A. Proteins
+B. Lipids
+C. Starch
+D. Cellulose
+21. (Select all that apply) Which are typical products made from spent grain?
+A. Animal feed
+B. Brewing yeast
+C. Compost or soil amendment
+D. Human food ingredients after drying
+22. (Select one) Which factor most affects hop oil preservation during storage?
+A. Lauter tun
+B. Plate heat exchanger (or shell-and-tube)
+C. Mash tun
+D. Fermenter
+34. (Select one) Why is oxygen added to wort before pitching yeast?
+A. To increase bitterness
+B. To support yeast growth and sterol synthesis
+C. To sterilize the wort
+D. To lower wort pH
+35. (Select all that apply) Which are common methods of wort clarification?
+A. Whirlpool separation
+B. Use of finings (e.g., Irish moss)
+C. Direct filtration immediately before fermentation
+D. Centrifugation
+36. (Select one) What is meant by 'attenuation' in brewing?
+A. The level of hop bitterness
+B. The percentage of sugars fermented by yeast
+C. The degree of turbidity
+D. The amount of foam produced
+37. (Select one) Which parameter best indicates the end of primary fermentation?
+A. Stable specific gravity readings over time
+B. Maximum foam height
+C. Complete clarity
+D. Colour change to darker
+38. (Select one) Mash pH influence is important because it affects:
+A. Enzyme efficiency and extract yield
+B. Bottle life only
+C. Hops alpha acid content
+D. CO■ solubility
+39. (Select one) DMS formation is most influenced by what during brewhouse operations?
+A. Incomplete conversion of starch
+B. Inadequate boil or slow cooling of wort
+C. Excessive dry hopping
+D. Over-oxygenation during fermentation
+40. (Select one) Which result is expected when sparging too hot or too long?
+A. Higher final gravity only
+B. Extraction of tannins and harsher astringency
+C. Increased ester production in fermentation
+D. Faster fermentation
+41. (Select all that apply) Which are reasons to use a mash filter rather than a traditional lauter tun?
+A. Higher extract efficiency
+B. Simpler handling of husks for filtration bed
+C. Lower water usage and faster run-off
+D. Eliminates need for boiling
+42. (Select one) The 'trub' in brewing refers to:
+A. Yeast slurry used for pitching
+B. The protein and hop debris formed during whirlpool/hot break
+C. A type of hop compound
+D. A filtration aid
+43. (Select one) When calculating brewhouse efficiency, which output is compared to potential extract?
+A. Final beer colour
+B. Gravity points extracted versus theoretical extract
+C. CO■ produced
+D. Volume of spent grains
+44. (Select one) The main purpose of adding finings during whirlpool or maturation is to:
+A. Increase alcohol content
+B. Improve clarity by coagulating haze-forming proteins
+C. Boost bitterness
+D. Raise pH
+45. (Select one) Which safety practice is most important when operating a boiler or hot wort system?
+A. Wearing gloves and eye protection and controlling steam release
+B. Tasting the hot wort to check sweetness
+C. Adding hops by hand while boiling
+D. Using wooden tools only
+46. (Select one) Underpitching yeast commonly leads to:
+A. Faster fermentation
+B. Stress on yeast and increased off-flavours
+C. Increased foam stability
+D. Lower bitterness
+47. (Select one) Which measurement helps assess yeast viability before pitching?
+A. pH reading
+B. Viability staining (e.g., methylene blue) or cell counting
+C. CO■ sensor in the wort
+D. Light absorption at 600 nm
+48. (Select one) A high fermentation temperature for an ale is most likely to produce:
+A. Clean lager-like profile
+B. Increased ester and higher alcohol formation
+C. Reduced alcohol yield
+D. Less diacetyl
+49. (Select one) Which factor is most critical when reusing yeast slurry?
+A. Ensuring yeast health and absence of contamination
+B. Matching hop alpha acids
+C. Bottle conditioning schedule
+D. Filter pore size
+50. (Select one) Diacetyl in finished beer is usually detected as:
+A. Metallic
+B. Buttery or butterscotch aroma
+C. Skunky
+D. Sour vinegar
+51. (Select all that apply) Which are common operations in yeast handling/propagation?
+A. Washing and cropping yeast
+B. Aerobic propagation steps to build cell mass
+C. Adding antibiotics to yeast banks
+D. Maintaining sterile storage and monitoring viability
+52. (Select one) The term 'flocculation' describes yeast that:
+A. Grows only at high temperatures
+B. Clumps together and settles out of suspension
+C. Produces no CO■
+D. Is resistant to alcohol
+53. (Select one) Which compound is produced early in fermentation and can give green-apple character if
+not reduced?
+A. Diacetyl
+B. Acetaldehyde
+C. Isoamyl acetate
+D. Sulphur dioxide
+54. (Select one) Oxygen exposure after fermentation commonly leads to which sensory change?
+A. Increased hop aroma
+B. Oxidised/cardboard flavours
+C. Increased fruity esters
+D. Decrease in bitterness
+55. (Select one) Which practice reduces risk of contamination during fermentation?
+A. Open-top fermenters with no cover
+B. Maintaining hygiene and closed transfers
+C. Adding fresh fruit to fermenter without sterilization
+D. Using unfiltered river water
+56. (Select one) What is 'secondary fermentation' commonly used for?
+A. Primary sugar conversion in wort
+B. Maturation, clarification and sometimes natural carbonation
+C. Sterilisation of bottles
+D. Malt modification
+57. (Select all that apply) Which are signs of healthy active fermentation?
+A. Vigorous krausen/foam in ales
+B. Rapid drop in specific gravity
+C. Persistent sour smell from day one
+D. CO■ evolution observed
+58. (Select one) Which action is appropriate if a yeast culture shows contamination?
+A. Continue using it without change
+B. Isolate and discard contaminated yeast and sanitize equipment
+C. Add more hops to mask smell
+D. Increase fermentation temperature sharply
+59. (Select one) Which of the following best helps yeast to build sterols required for healthy cell walls?
+A. Excessive sugar concentration
+B. Adequate oxygen at the start of fermentation
+C. High storage temperature of finished beer
+D. Low pitching rate
+60. (Select all that apply) Which factors influence ester production during fermentation?
+A. Fermentation temperature
+B. Yeast strain genetics
+C. Wort gravity and oxygen level
+D. Bottle colour
+61. (Select one) In lager production, the 'diacetyl rest' is performed to:
+A. Increase hop bitterness
+B. Allow yeast to reabsorb and reduce diacetyl
+C. Clarify beer by filtration
+D. Pasteurize the beer
+62. (Select one) A stuck fermentation is defined by:
+A. Excessive clarity early in fermentation
+B. Lack of expected gravity decline over time
+C. Rapid CO■ production
+D. Unusually high ester levels
+63. (Select one) Which parameter is routinely measured to monitor fermentation progress?
+A. Colour units (EBC)
+B. Specific gravity (or Plato)
+C. Dissolved oxygen after fermentation
+D. Bottle fill height
+64. (Select one) Which yeast-derived compound causes buttery flavour and is removed during maturation?
+A. Ethanol
+B. Diacetyl
+C. Isoamyl alcohol
+D. Sulphur dioxide
+65. (Select all that apply) Which are benefits of harvesting and reusing yeast?
+A. Lower yeast purchase costs
+B. Consistent fermentation character if handled correctly
+C. Elimination of all contamination risk
+D. Potential accumulation of genetic drift or contamination if not monitored
+66. (Select one) Cold maturation primarily aids in:
+A. Increasing ester formation
+B. Precipitating chill haze and improving clarity
+C. Creating more alcohol
+D. Promoting bacterial growth
+67. (Select one) Which stabilizing agent is commonly used to remove polyphenols?
+A. PVPP
+B. Silica gel
+C. Calcium carbonate
+D. Activated carbon
+68. (Select one) Filtration to remove yeast typically uses which pore size range for sterile filtration?
+A. 0.45–1.0 µm
+B. 10–20 µm
+C. 5–10 µm
+D. 0.1–0.2 µm
+69. (Select one) Chill haze is often formed by interactions between:
+A. Hop oils and ethanol
+B. Polyphenols and proteins
+C. CO■ and residual sugars
+D. Oxygen and packaging glue
+70. (Select one) What is the main cause of DMS in beer?
+A. Hop oxidation
+B. Dimethyl sulphide precursors in malt and inadequate boil/rapid cooling
+C. Yeast autolysis
+D. Excessive filtration
+71. (Select all that apply) Which practices improve beer shelf-life?
+A. Minimizing oxygen pickup during packaging
+B. Using light-impermeable containers
+C. Storing at stable, cool temperatures
+D. Adding extra yeast to each package
+72. (Select one) Which off-flavour is commonly associated with bacterial acetic fermentation?
+A. Butter
+B. Skunky
+C. Vinegar/acetic sourness
+D. Sweet toffee
+73. (Select one) Stabilization to prevent chill haze often targets removal of:
+A. Yeast only
+B. Protein–polyphenol complexes
+C. Hop alpha acids
+D. Carbon dioxide
+74. (Select one) Which method is effective for de-aerating beer before packaging?
+A. Injecting oxygen
+B. Vacuum deaeration or CO■ purging
+C. Heating the beer
+D. Adding finings
+75. (Select all that apply) Which are signs that beer is oxidized?
+A. Cardboard or papery aroma
+B. Loss of hop freshness and dull flavours
+C. Increased fruity ester intensity
+D. Browning or darker colour over time
+76. (Select one) Which packaging type gives the best protection against light-struck (skunky) reactions?
+A. Clear glass bottle
+B. Green bottle
+C. Brown glass bottle or  can
+D. PET bottle
+77. (Select one) During counter-pressure can filling, what is a key control parameter?
+A. Humidity in the room
+B. Pressure differential to prevent foaming and oxygen ingress
+C. Colour of the can
+D. Malt moisture
+78. (Select one) Which closure is most important to check to avoid oxygen ingress in bottled beer?
+A. Cap seal or crown integrity
+B. Label adhesion
+C. Bottle weight
+D. Bottle shape
